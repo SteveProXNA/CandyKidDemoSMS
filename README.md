@@ -45,6 +45,8 @@ Extra special thanks to: sverx for providing the devkitSMS
 <br />
 Special thanks to: 
 Maxim, Martin, Ville Helin, Steve Snake, Bock + Emulicious devs
+<br />
+Also, I "borrowed" sound effects from Baluba Balok http://bit.ly/2nnSQJG Thanks!
 
 ###### SOCIAL MEDIA
 - You Tube https://youtu.be/HbtZgRN_j0Y
