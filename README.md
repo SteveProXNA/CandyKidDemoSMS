@@ -41,7 +41,7 @@ Download and dump CandyKidDemo.sms into Hex Editor, e.g. HxD, and modify bytes:
 - 0x0055	Paths to test individually 1 thru 8.
 
 ###### CREDITS
-Extra special thanks to: sverx for providing the devkitSMS
+Extra special thanks to: sverx for devkitSMS https://github.com/sverx/devkitSMS
 <br />
 Special thanks to: 
 Maxim, Martin, Ville Helin, Steve Snake, Bock + Emulicious devs
