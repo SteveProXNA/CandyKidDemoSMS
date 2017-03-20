@@ -18,7 +18,7 @@ Note: press Pause button the real hardware should pause / resume the demo.
 
 ###### TOOLS
 - Programming:	devkitSMS
-- Lanugauges:	C / Z80
+- Languages:	C / Z80
 - Visual Studio 2008
 - Graphics:		BMP2Tile
 - Music:		Mod2PSG2
@@ -32,7 +32,6 @@ http://github.com/SteveProXNA/CandyKidDemoSMS
 ###### ROM HACKING
 You can hack this ROM!  
 Download and dump CandyKidDemo.sms into Hex Editor, e.g. HxD, and modify bytes:
-
 - 0x0050	Steps to move Kid: 1, 2, 4, 8 pixels.
 - 0x0051	Delay for enemy ghosts arm moves.
 - 0x0052	Hands for enemy ghosts to toggle.
